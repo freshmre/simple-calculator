@@ -91,7 +91,7 @@ body {
     gap: 10px;
 }
 
-.btn {
+#controls button{
     cursor: pointer;
     border: 0px;
     background-color: transparent;
