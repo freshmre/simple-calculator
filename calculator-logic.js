@@ -156,6 +156,11 @@ function mapKeyboardStrokes(e) {
     // console.log(code);
     // console.log(e); e.shiftKey
     switch (code) {
+        case 'Numpad0':
+        case 'Digit0':
+            document.getElementById('b0').click();
+            break;
+
         case 'Numpad1':
         case 'Digit1':
             document.getElementById('b1').click();
