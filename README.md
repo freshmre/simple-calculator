@@ -5,7 +5,10 @@
 A simple calculator. This project is from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator).
 The calculator is bug-ridden unfortunately and its logic needs to be completely rewritten.
 
+
 ![Screenshot of the calculator](img/calc-screenshot.png)
+
+
 
 # To Do
 🔴 Fix calculator logic (Cannot do negative numbers, cannot change operator after selecting one, consecutive operations cannot be done after pressing "=" 
